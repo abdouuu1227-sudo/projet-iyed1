@@ -1,0 +1,45 @@
+#nga1{
+    width:750px;
+    margin-left: 500px;
+    margin-bottom:-600px ;
+    position: relative;
+}
+#nga2{
+    width: 1500px;
+    height: 800px;
+    margin-left: 150px;
+    margin-bottom: -200;
+}
+#nga3{
+position: relative;
+margin-bottom: 200px;
+}
+#nga4{
+    text-decoration: none;
+    font-size: 36.9px;
+    font-family: monospace;
+    bottom: 325px;
+  color: black;
+  position: relative;
+  margin-left: 920px;
+}
+#nga5{
+    position: relative;
+    margin-top : -1000px;
+    margin-right: 450px;
+}
+#nga6{
+    position: relative;
+    font-size: 25px;
+    font-family: cursive;
+ margin-top: -850px;
+ margin-left: 20px;
+}
+#A{
+    left: 1500px;
+    bottom:250px;  
+    position: relative;
+    font-size: xx-large ;
+    text-decoration: none;
+    color: #686e76;
+}

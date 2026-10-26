@@ -1,0 +1,71 @@
+#a{
+    width: 1800px;
+    height: 900px;
+}
+#b{
+    width: 970px;
+    height: 320px;
+    margin-left: 600px;
+    position: relative;
+   bottom:600px;
+}
+#c{
+    font-size: 125px;
+    font-family:m ;
+    position: relative;
+    bottom:1200px   ;
+    margin-left: 50px;  
+}
+#d{ 
+    font-family: monospace;
+    font-size: 45px;
+    text-decoration: none;
+    color: black;
+    position: relative  ;
+    bottom:1320px;
+    left: 80px;
+}
+#ll{
+     width:60px;
+     position: relative;
+     bottom:1450px ;
+    left  : 1500px;
+    
+      
+}
+#II{
+   width: 60px;
+     position: relative;
+     bottom: 1600px;
+    left  : 1640px;  
+}
+#JJ{
+    width: 60px;
+    position: relative;
+    bottom:1300px ;
+    left: 1575px
+}
+#HH{
+width: 200px;
+position: relative;
+bottom: 1700px;
+left:1450px ;
+}
+#LL{
+    font-size: 60px;
+position: relative;
+    bottom: 1200px;
+    left: 120px;
+}
+#oo{
+    font-size: 60px;
+    position: relative;
+    bottom: 1325px;
+    left: 475px;
+}
+#xx{
+    font-size: 60px;
+    position: relative;
+    bottom:1460px ;
+    left:775px ;
+}

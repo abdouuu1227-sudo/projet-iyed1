@@ -1,0 +1,88 @@
+ #bg{
+            width: 2000px;
+        }
+        #P{
+            font-size: 100px;
+            position:relative;
+            bottom: 1050px;
+            left: 100px;
+            font-family: mott;
+        }
+        #o{
+            font-size: 50px;
+            position:relative;
+            bottom: 1150px;
+            left: 100px;
+        }
+        #ph{
+            position:relative;
+            bottom: 2200px;
+            width: 50px;
+        }
+        #im{
+            position: relative;
+            bottom: 1800px;
+            left: 450px;
+        }
+        #MI{
+            font-size: 10px;
+            position:relative;
+            bottom: 2250px;
+            right: 625px;
+            text-align: center;
+            font-family: cursive;
+        }
+        #a{
+            width: 150px;
+            height: 300px;
+             position:relative;
+            bottom:2690px;
+            left: 400px;
+        }
+        #q{
+            width: 163px;
+            height: 153px;
+             position:relative;
+            bottom:2400px;
+            left: 1550px;
+        }
+        #A{
+            text-decoration: none;
+            font-size: 40px;
+            position:relative;
+            bottom:3150px;
+            left: 10px;
+            font-family:;
+            color: black;
+
+        }
+        #B{
+            text-decoration: none;
+            font-size: 40px;
+            position:relative;
+            bottom:3150px;
+            left: 30px;
+            font-family:;
+            color: black;
+
+        }
+        #C{
+            text-decoration: none;
+            font-size: 40px;
+            position:relative;
+            bottom:3150px;
+            left: 45px;
+            font-family:;
+            color: black;
+
+        }
+        #D{
+            text-decoration: none;
+            font-size: 40px;
+            position:relative;
+            bottom:3150px;
+            left: 60px;
+            font-family:;
+            color: black;
+
+        }

@@ -1,0 +1,53 @@
+
+#im{
+
+  height: 900px;
+    
+width:2000 px;
+}
+#ll{
+     width: 30px;
+     position: relative;
+     bottom:20px ;
+    left  : -70px;
+}
+#II{
+   width: 30px;
+     position: relative;
+     bottom:20px ;
+    left  : -165px;  
+}
+#jj{
+   width: 27px;
+     position: relative;
+     bottom:20px ;
+    left  : -255px;  
+}
+#NN{
+  font-family: cursive;
+  font-size: 40px;
+  text-decoration: none;
+  color: black;
+  position: relative  ;
+  bottom: 300px;
+  left: 550px;
+}
+#DD{
+  position: relative;
+  height: 600px;
+  width: 325px;
+  bottom:800px ;
+  left: 650px;
+}
+#A{
+    left:1200px;
+    bottom: 1600px;
+    position: relative;
+    font-size: xx-large ;
+    text-decoration: none;
+    color: #686e76;
+}
+#hahaha{
+  padding-left: 100px;
+}
+
